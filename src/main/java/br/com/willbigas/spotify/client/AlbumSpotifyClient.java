@@ -1,6 +1,6 @@
-package br.com.willbigas.spotify.controller.client;
+package br.com.willbigas.spotify.client;
 
-import br.com.willbigas.spotify.controller.client.dto.AlbumResponse;
+import br.com.willbigas.spotify.client.dto.album.AlbumResponse;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestHeader;

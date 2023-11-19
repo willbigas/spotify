@@ -1,4 +1,4 @@
-package br.com.willbigas.spotify.controller.client.dto;
+package br.com.willbigas.spotify.client.dto.login;
 
 import feign.form.FormProperty;
 

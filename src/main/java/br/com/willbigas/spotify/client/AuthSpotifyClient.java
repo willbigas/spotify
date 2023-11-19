@@ -1,7 +1,7 @@
-package br.com.willbigas.spotify.controller.client;
+package br.com.willbigas.spotify.client;
 
-import br.com.willbigas.spotify.controller.client.dto.LoginRequest;
-import br.com.willbigas.spotify.controller.client.dto.LoginResponse;
+import br.com.willbigas.spotify.client.dto.login.LoginRequest;
+import br.com.willbigas.spotify.client.dto.login.LoginResponse;
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.http.MediaType;
 import org.springframework.web.bind.annotation.PostMapping;

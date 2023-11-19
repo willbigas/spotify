@@ -1,4 +1,4 @@
-package br.com.willbigas.spotify.controller.client;
+package br.com.willbigas.spotify.client;
 
 import org.springframework.cloud.openfeign.FeignClient;
 import org.springframework.web.bind.annotation.GetMapping;

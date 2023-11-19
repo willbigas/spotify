@@ -1,0 +1,7 @@
+###
+
+# curl --location 'http://localhost:8080/spotify/api/albums'
+GET http://localhost:8080/spotify/api/albums
+
+###
+
